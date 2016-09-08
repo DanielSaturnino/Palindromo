@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Palindromo.h
+iostream
+-
+stack
+-
+queue
+-
+string
+-
+
+/home/daniel/Documentos/Palindromo/src/main.cpp
+Palindromo.h
+/home/daniel/Documentos/Palindromo/src/Palindromo.h
+

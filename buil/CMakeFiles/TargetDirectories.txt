@@ -1,0 +1,1 @@
+/home/daniel/Documentos/Palindromo/buil/CMakeFiles/Palindromo.dir
